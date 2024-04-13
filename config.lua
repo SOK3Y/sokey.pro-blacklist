@@ -1,3 +1,5 @@
+Config = {}
+
 Config['BlacklistedTargetPeds'] = {
     [GetHashKey("s_f_m_fembarber")] = true,
     [GetHashKey("u_m_y_tattoo_01")] = true,
