@@ -1,3 +1,3 @@
 exports('GetBlacklistedTargetPeds', function()
-	return Config['BlacklistedTargetPeds']
+    return Config['BlacklistedTargetPeds']
 end)
